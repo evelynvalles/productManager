@@ -15,7 +15,7 @@ const OneProduct = () => {
 
     const updateLink = (e) => {
         e.preventDefault();
-        navigate(`${product._id}/edit`)
+        navigate(`/${product._id}/edit`)
     }
 
     return (
