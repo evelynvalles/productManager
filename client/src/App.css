@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+  padding: 0 5rem;
+}
+
+.formBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputBox {
+  background-color: rgb(238, 236, 236);
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  width: 20rem;
+  margin-bottom: 1rem;
+}
+
+.inputBox label {
+  margin-right: 1rem;
+  color: rgb(97, 96, 96);
+}
+
+.inputBox input {
+  padding: .3rem;
+  border: none;
+  border-radius: .1rem;
+}
+
+form button {
+  background-color: rgb(238, 236, 236);
+  color: rgb(97, 96, 96);
+  border: none;
+  border-radius: .3rem;
+  width: 10rem;
+  padding: .3rem;
+  cursor: pointer;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list p {
+  margin-right: 1rem;
+}
+
+.list button {
+  background-color: rgb(238, 236, 236);
+  color:rgb(97, 96, 96);
+  border: none;
+  border-radius: .3rem;
+  width: 4rem;
+  padding: .3rem;
+  cursor: pointer;
+}
+
+.product button {
+  background-color: rgb(238, 236, 236);
+  color: rgb(97, 96, 96);
+  border: none;
+  border-radius: .3rem;
+  width: 5rem;
+  padding: .3rem;
+  cursor: pointer;
+}
